@@ -26,13 +26,13 @@ reference: https://github.com/hackintosh-stuff/ComboJack
 - buildin-Sound/buildin-Mic
 - headphone-Sound/~~headphone-Mic~~
 - USB2/3/C/
-- USBC-HDMI
 - Wifi
 - Bluetooth
 - Airdrop
 
 ## What Not Works yet (if u know solution PR is Welcome)
 
+- USBC-HDMI
 - Sleep/Wake
 - Reboot
 
